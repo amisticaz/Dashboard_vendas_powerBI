@@ -1,0 +1,13 @@
+# Ambiente Python (usaremos na Etapa 3)
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Segredos (quando criar .env na Etapa 3)
+.env
+.env.local
+.env.*.local
